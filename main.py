@@ -1,10 +1,4 @@
-#------------------------------------------#
-#----Student Database Management System----#
-#----created by Anuran Barman--------------#
-#----modules: PyQt and Sqlite3-------------#
-#----www.mranuran.com----------------------#
-#----anuranbarman@gmail.com----------------#
-#------------------------------------------#
+
 
 import sys,sqlite3,time
 from PyQt5 import QtGui
